@@ -1,0 +1,2 @@
+# enable Bzlmod for every bazel command
+common --enable_bzlmod

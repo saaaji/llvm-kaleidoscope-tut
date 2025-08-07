@@ -1,0 +1,1 @@
+bazel_dep(name = "llvm-project", version = "17.0.3.bcr.2")
